@@ -1,0 +1,7 @@
+.jumbotron{
+    display:flex;
+    flex-direction: row;
+}
+.jumbo{
+    margin-left:250px;
+}

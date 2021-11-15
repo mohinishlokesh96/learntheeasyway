@@ -1,6 +1,9 @@
+import Jumbotron from "./Jumbotron/Jumbotron"
 const HomePage=()=>{
     return(
-        <div></div>
+        <div>
+            <Jumbotron/>
+        </div>
     )
 }
 export default HomePage
