@@ -1,6 +1,8 @@
 const MidInfoSection = ()=>{
     return (
-        <div></div>
+        <div>
+            <p>The mid information Section</p>
+        </div>
     )
 }
 export default MidInfoSection
