@@ -1,0 +1,4 @@
+.midInfoSection{
+    display:flex;
+    flex-direction: column;
+}

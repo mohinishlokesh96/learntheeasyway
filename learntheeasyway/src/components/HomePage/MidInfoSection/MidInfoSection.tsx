@@ -1,7 +1,10 @@
 const MidInfoSection = ()=>{
     return (
         <div>
-            <p>The mid information Section</p>
+            <div className="midInfoSection">
+                <div className="midInfoSectionImage"></div>
+                <div className="midInfoSectionInformation"></div>
+            </div>
         </div>
     )
 }
