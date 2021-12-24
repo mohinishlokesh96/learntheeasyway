@@ -1,0 +1,16 @@
+.navigationOptions{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+.navigationVariousOptions{
+    float:right;
+    margin:10px;
+}
+.navigationLink{
+    margin:0;
+}
+.navigationClass{
+    background-color: aqua;;
+    padding:20px;
+}

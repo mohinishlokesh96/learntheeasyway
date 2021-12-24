@@ -2,14 +2,10 @@ import "./Navigation.css"
 const Navigation=()=>{
     return (
         <div className="navigationClass">
-            <ul>
-                <li><a href="">LTEW</a></li>
-                <div>
-                    <ul>
-                        <li><button>Subscribe</button></li>
-                        <li><button>Log-In</button></li>
-                    </ul>
-                </div>
+            <ul className="navigationOptions">
+                <a href="" className="navigationLink">LTEW</a>
+                <li className="navigationVariousOptions"><button>Subscribe</button></li>
+                <li className="navigationVariousOptions"><button>Log-In</button></li>
             </ul>
         </div>
     )
