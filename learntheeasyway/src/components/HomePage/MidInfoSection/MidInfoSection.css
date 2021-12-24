@@ -1,4 +1,14 @@
 .midInfoSection{
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
+    
+}
+.midInfoSectionInformation{
+    text-align: justify;
+    border:1px solid black;
+    width:50%;
+}
+.midInfoSectionImage{
+    width:50%;
+    border:1px solid black
 }
