@@ -1,7 +1,6 @@
 import "./Jumbotron.css"
 const Jumbotron=()=>{
     return(
-        <div>
             <div className="jumbotron">
                 <div className="jumbo jumbotroninformation">
                     <p>Prepare for your Interview question at a time</p>
@@ -17,7 +16,6 @@ const Jumbotron=()=>{
                     </button>
                 </div>
             </div>
-        </div>
     )
 }
 export default Jumbotron

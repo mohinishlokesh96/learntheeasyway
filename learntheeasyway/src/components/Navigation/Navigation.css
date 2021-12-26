@@ -5,12 +5,16 @@
 }
 .navigationVariousOptions{
     float:right;
-    margin:10px;
+    margin-right:10px;
 }
 .navigationLink{
     margin:0;
 }
 .navigationClass{
-    background-color: aqua;;
+    background-color: #0F52BA;
     padding:20px;
+    clear: both;
+}
+.navigaionButtons{
+    padding:5px;
 }

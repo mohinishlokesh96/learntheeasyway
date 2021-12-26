@@ -4,8 +4,8 @@ const Navigation=()=>{
         <div className="navigationClass">
             <ul className="navigationOptions">
                 <a href="" className="navigationLink">LTEW</a>
-                <li className="navigationVariousOptions"><button>Subscribe</button></li>
-                <li className="navigationVariousOptions"><button>Log-In</button></li>
+                <li className="navigationVariousOptions"><button className="navigaionButtons">Subscribe</button></li>
+                <li className="navigationVariousOptions"><button className="navigaionButtons">Log-In</button></li>
             </ul>
         </div>
     )
